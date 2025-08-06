@@ -51,14 +51,14 @@ int main()
     std::cout << euler_number << '\n';
 
     std::cout << "Hello, Luise!" << std::endl;
-    std::cout << "This should print in a new line " << std::endl; 
-    
+    std::cout << "This should print in a new line " << std::endl;
+
     std::cout << "This is a test if i can compile it using only terminal" << std::endl;
     
-   std::cout  << "This line will end with slash n instead of endl \n";
-   std::cout << "This is better sometimes because endl not only outputs ";
-   std::cout << "starts a new line but also flashs the output to display\n";
-   std::cout << "Sometimes we may not want that because it is slow.\n";
+    std::cout  << "This line will end with slash n instead of endl \n";
+    std::cout << "This is better sometimes because endl not only outputs ";
+    std::cout << "starts a new line but also flashs the output to display\n";
+    std::cout << "Sometimes we may not want that because it is slow.\n";
     return 0;
 }
 
